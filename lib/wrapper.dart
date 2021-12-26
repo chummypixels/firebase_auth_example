@@ -4,7 +4,7 @@ import 'package:firebase_setup/services/auth.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-import 'profile/profile_screen.dart';
+import 'screens/profile_screen.dart';
 
 class Wrapper extends StatelessWidget {
   const Wrapper({Key? key}) : super(key: key);
